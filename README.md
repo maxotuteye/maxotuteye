@@ -4,7 +4,7 @@
 
 ⚡ [Click to view my apps on the play store](https://play.google.com/store/apps/developer?id=Max+Otuteye)
 
-🎲 Check out my blog: https://pyro-blog.vercel.app
+🎲 [Check out my blog](https://pyro-blog.vercel.app)
 <!--
 **maxotuteye/maxotuteye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
