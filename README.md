@@ -1,6 +1,6 @@
 ![gitartwork](gitartwork.svg)
 
-🔥 [My Portfolio](https://max.otuteye.tech)
+🔥 [My Portfolio](https://portfolio-maxotuteye.vercel.app/)
 
 ⚡ [Click to view my apps on the play store](https://play.google.com/store/apps/developer?id=Max+Otuteye)
 
