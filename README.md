@@ -2,7 +2,9 @@
 
 🔥 [My Portfolio](https://portfolio-maxotuteye.vercel.app/)
 
+<!--
 ⚡ [Click to view my apps on the play store](https://play.google.com/store/apps/developer?id=Max+Otuteye)
+-->
 
 🎲 [Check out my blog](https://pyro-blog.vercel.app)
 <!--
